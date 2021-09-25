@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.exe
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.deps.json
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.runtimeconfig.json
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.runtimeconfig.dev.json
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.dll
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\ref\NumberGuessingApplication.dll
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\bin\Debug\net5.0\NumberGuessingApplication.pdb
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.AssemblyInfo.cs
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.dll
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\ref\NumberGuessingApplication.dll
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.pdb
+C:\Users\USER\source\repos\NumberGuessingApplication\NumberGuessingApplication\obj\Debug\net5.0\NumberGuessingApplication.genruntimeconfig.cache
